@@ -1,0 +1,12 @@
+export let pkrdollar = (a) => a * 0.0036;
+export let pkrriyal = (b) => b * 0.014;
+export let pkrpound = (c) => c * 0.0030;
+export let dollarpkr = (d) => d * 277;
+export let dollarpound = (f) => f * 0.52;
+export let dollarriyal = (e) => e * 3.75;
+export let riyalpkr = (g) => g * 74;
+export let riyaldollar = (h) => h * 0.27;
+export let riyalpound = (i) => i * 0.22;
+export let poundpkr = (j) => j * 337;
+export let pounddollar = (k) => k * 1.21;
+export let poundriyal = (l) => l * 4.55;
